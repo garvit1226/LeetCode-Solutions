@@ -80,3 +80,19 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ---
 
 ⭐ If you find this repository helpful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+<!---LeetCode Topics End-->
