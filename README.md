@@ -111,6 +111,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0057-insert-interval](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
