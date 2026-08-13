@@ -89,6 +89,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0094-binary-tree-inorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -151,6 +152,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -165,6 +167,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -175,6 +178,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
