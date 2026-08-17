@@ -123,6 +123,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -142,6 +143,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -220,6 +222,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## DP on Trees
 |  |
@@ -241,6 +244,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
