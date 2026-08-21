@@ -143,6 +143,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0345-reverse-vowels-of-a-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -243,6 +244,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0345-reverse-vowels-of-a-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
