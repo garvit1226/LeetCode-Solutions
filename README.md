@@ -131,6 +131,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -160,6 +161,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -335,6 +337,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0016-3sum-closest](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Nim Game
@@ -398,6 +401,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -429,11 +433,13 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -442,4 +448,12 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
