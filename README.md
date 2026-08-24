@@ -132,6 +132,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -424,6 +425,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
