@@ -167,6 +167,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0767-reorganize-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [1927-sum-game](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2351-first-letter-to-appear-twice](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -358,6 +359,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1386-cinema-seat-allocation](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [2351-first-letter-to-appear-twice](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -432,6 +434,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [2351-first-letter-to-appear-twice](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -443,6 +446,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [2351-first-letter-to-appear-twice](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
