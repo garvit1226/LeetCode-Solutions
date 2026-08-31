@@ -118,6 +118,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -140,6 +141,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -533,6 +535,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Merge Sort
 |  |
 | ------- |
