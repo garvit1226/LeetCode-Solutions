@@ -103,6 +103,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -118,6 +119,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0207-course-schedule](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -130,6 +132,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0207-course-schedule](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [3310-remove-methods-from-project](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Array
 |  |
@@ -569,6 +572,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
