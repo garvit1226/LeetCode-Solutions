@@ -117,6 +117,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0112-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0684-redundant-connection) |
@@ -144,6 +145,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
@@ -318,6 +320,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
@@ -547,6 +550,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Merge Sort
