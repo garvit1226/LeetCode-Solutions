@@ -117,6 +117,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -187,6 +188,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0481-magical-string) |
@@ -299,6 +301,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -380,6 +383,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0355-design-twitter) |
@@ -610,5 +614,6 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
