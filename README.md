@@ -188,6 +188,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -334,6 +335,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
