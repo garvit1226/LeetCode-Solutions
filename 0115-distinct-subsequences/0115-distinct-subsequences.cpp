@@ -1,0 +1,38 @@
+class Solution {
+public:
+    int n, m;
+    vector<vector<int>> dp;
+
+    int solve(int i, int j, string& s, string& t) {
+        
+        // Successfully formed t
+        if (j == m)
+            return 1;
+
+        // s finished but t is not formed
+        if (i == n)
+            return 0;
+
+        if (dp[i][j] != -1)
+            return dp[i][j];
+
+        // Skip current character
+        long long ans = solve(i + 1, j, s, t);
+
+        // Take current character if it matches
+        if (s[i] == t[j]) {
+            ans += solve(i + 1, j + 1, s, t);
+        }
+
+        return dp[i][j] = ans;
+    }
+
+    int numDistinct(string s, string t) {
+        n = s.size();
+        m = t.size();
+
+        dp.assign(n, vector<int>(m, -1));
+
+        return solve(0, 0, s, t);
+    }
+};
