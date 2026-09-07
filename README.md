@@ -198,6 +198,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0481-magical-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0481-magical-string) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2351-first-letter-to-appear-twice](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -341,6 +342,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
