@@ -107,6 +107,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0547-number-of-provinces](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -132,6 +133,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0547-number-of-provinces](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -149,6 +151,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0210-course-schedule-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Array
 |  |
@@ -359,6 +362,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -567,6 +571,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -657,4 +662,8 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
