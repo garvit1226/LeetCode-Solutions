@@ -155,6 +155,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0684-redundant-connection](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Array
 |  |
@@ -373,6 +374,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## DP on Trees
@@ -655,6 +657,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0207-course-schedule](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -669,9 +672,11 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0743-network-delay-time](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
