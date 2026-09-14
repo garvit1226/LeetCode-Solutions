@@ -227,6 +227,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
@@ -595,6 +596,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
