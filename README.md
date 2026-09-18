@@ -221,6 +221,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0767-reorganize-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2351-first-letter-to-appear-twice](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -344,6 +345,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0767-reorganize-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -444,6 +446,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1386-cinema-seat-allocation](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -467,6 +470,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0846-hand-of-straights](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
