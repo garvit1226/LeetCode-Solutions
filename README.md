@@ -261,6 +261,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -406,6 +407,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -776,4 +778,8 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
