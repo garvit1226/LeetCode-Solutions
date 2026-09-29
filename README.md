@@ -210,6 +210,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [2029-stone-game-ix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -422,6 +423,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -694,6 +696,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1020-number-of-enclaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Merge Sort
 |  |
@@ -778,6 +781,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
