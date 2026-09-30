@@ -180,6 +180,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0130-surrounded-regions](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -415,6 +416,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
