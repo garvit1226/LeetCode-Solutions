@@ -229,6 +229,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3840-house-robber-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3840-house-robber-v) |
 | [3875-construct-uniform-parity-array-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -441,6 +442,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3840-house-robber-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3840-house-robber-v) |
 ## DP on Trees
 |  |
 | ------- |
