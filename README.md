@@ -238,6 +238,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0127-word-ladder) |
@@ -299,6 +300,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -796,6 +798,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
