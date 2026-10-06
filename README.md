@@ -271,6 +271,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -424,6 +425,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -653,6 +655,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Monotonic Stack
