@@ -191,6 +191,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0621-task-scheduler](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0778-swim-in-rising-water](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0835-image-overlap) |
@@ -439,6 +440,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0213-house-robber-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -510,6 +512,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
