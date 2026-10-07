@@ -196,6 +196,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0827-making-a-large-island](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0931-minimum-falling-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -442,6 +443,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -729,6 +731,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0778-swim-in-rising-water](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0835-image-overlap) |
+| [0931-minimum-falling-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
