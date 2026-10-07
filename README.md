@@ -136,6 +136,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0200-number-of-islands](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -246,6 +247,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0481-magical-string) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -393,6 +395,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0113-path-sum-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
