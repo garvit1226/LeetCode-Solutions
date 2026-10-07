@@ -446,6 +446,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0213-house-robber-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0688-knight-probability-in-chessboard](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
