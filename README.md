@@ -211,6 +211,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1277-count-square-submatrices-with-all-ones](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1386-cinema-seat-allocation](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1463-cherry-pickup-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -460,6 +461,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1277-count-square-submatrices-with-all-ones](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1463-cherry-pickup-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -749,6 +751,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1020-number-of-enclaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1463-cherry-pickup-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
