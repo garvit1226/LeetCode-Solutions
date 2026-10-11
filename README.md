@@ -195,6 +195,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0778-swim-in-rising-water](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -415,6 +416,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -465,6 +467,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0337-house-robber-iii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0688-knight-probability-in-chessboard) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
