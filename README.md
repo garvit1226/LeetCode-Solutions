@@ -194,6 +194,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0347-top-k-frequent-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -417,6 +418,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0113-path-sum-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -478,6 +480,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -888,10 +891,12 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
