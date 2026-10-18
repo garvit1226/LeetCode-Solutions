@@ -226,6 +226,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1463-cherry-pickup-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -312,6 +313,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1401-circle-and-rectangle-overlapping](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1872-stone-game-viii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
@@ -385,6 +387,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -419,6 +422,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
@@ -509,6 +513,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -714,6 +719,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0215-kth-largest-element-in-an-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -735,10 +741,12 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0703-kth-largest-element-in-a-stream](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Monotonic Stack
@@ -846,6 +854,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
@@ -906,6 +915,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -934,4 +944,8 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0322-coin-change](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
