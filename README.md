@@ -264,6 +264,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [3840-house-robber-v](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3840-house-robber-v) |
 | [3875-construct-uniform-parity-array-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -333,6 +334,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [3871-count-commas-in-range-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
@@ -340,6 +342,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
@@ -633,6 +636,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Nim Game
 |  |
 | ------- |
