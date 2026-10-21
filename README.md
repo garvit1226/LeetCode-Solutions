@@ -219,6 +219,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -288,6 +289,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -481,6 +483,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0481-magical-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0481-magical-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -514,6 +517,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0787-cheapest-flights-within-k-stops](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -595,6 +599,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0953-verifying-an-alien-dictionary](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1386-cinema-seat-allocation](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -632,6 +637,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0973-k-closest-points-to-origin](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
