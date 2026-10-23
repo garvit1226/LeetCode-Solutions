@@ -203,6 +203,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0518-coin-change-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -513,6 +514,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0494-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
@@ -689,6 +691,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -961,6 +964,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Complete Knapsack
@@ -976,4 +980,5 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
