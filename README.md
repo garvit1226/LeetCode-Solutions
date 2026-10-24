@@ -284,6 +284,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0345-reverse-vowels-of-a-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0481-magical-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0767-reorganize-string) |
@@ -515,6 +516,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0416-partition-equal-subset-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
