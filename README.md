@@ -182,6 +182,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0016-3sum-closest](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0057-insert-interval](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -602,6 +603,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
@@ -846,6 +848,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0200-number-of-islands) |
