@@ -302,6 +302,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0953-verifying-an-alien-dictionary](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -538,6 +539,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0940-distinct-subsequences-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1008,5 +1010,6 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
