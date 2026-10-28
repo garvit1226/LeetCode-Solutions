@@ -285,6 +285,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | ------- |
 | [0006-zigzag-conversion](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
@@ -466,6 +467,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -509,6 +511,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -1018,4 +1021,8 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0583-delete-operation-for-two-strings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
