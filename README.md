@@ -324,6 +324,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [2351-first-letter-to-appear-twice](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2484-count-palindromic-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2484-count-palindromic-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -569,6 +570,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2484-count-palindromic-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2484-count-palindromic-subsequences) |
 | [2560-house-robber-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
