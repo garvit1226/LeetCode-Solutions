@@ -192,6 +192,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -292,6 +293,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0115-distinct-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0301-remove-invalid-parentheses](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -525,6 +527,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
@@ -621,6 +624,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -897,6 +901,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -983,6 +988,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0139-word-break) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Knapsack Problem
 |  |
@@ -1033,4 +1039,8 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
