@@ -236,6 +236,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1140-stone-game-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1463-cherry-pickup-ii) |
@@ -521,6 +522,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -691,6 +693,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -756,6 +759,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [0300-longest-increasing-subsequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/garvit1226/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
