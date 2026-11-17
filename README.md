@@ -343,6 +343,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2484-count-palindromic-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -536,6 +537,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1048-longest-string-chain](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -595,6 +597,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2484-count-palindromic-subsequences) |
 | [2560-house-robber-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
