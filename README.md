@@ -261,6 +261,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [2333-minimum-sum-of-squared-difference](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2560-house-robber-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -514,6 +515,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [2333-minimum-sum-of-squared-difference](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2560-house-robber-iv](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -716,6 +718,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
