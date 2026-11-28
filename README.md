@@ -305,6 +305,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [3904-smallest-stable-index-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -534,6 +535,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -742,6 +744,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Nim Game
 |  |
 | ------- |
@@ -907,6 +910,7 @@ This repository is updated automatically whenever I solve a new problem on LeetC
 | [1631-path-with-minimum-effort](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/garvit1226/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/garvit1226/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/garvit1226/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
